@@ -4,6 +4,11 @@
 AUTHORS=unknown
 URL=unknown
 
+function xxx () {
+    echo -e '\n\nXXX fixme located: '"$@"
+    exit 1
+}
+
 function finalize () {
     local slug=${1:?Must specify slug in $@}
     local version=${2:?Must specify version in $@}

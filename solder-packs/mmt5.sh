@@ -180,6 +180,7 @@ solderfile moreoverlays-1.13-mc1.12.1.jar more-overlays 1.13
 setauthors "progwml6, Alexbegt"
 seturl https://minecraft.curseforge.com/projects/iron-chests
 solderfile ironchest-1.12.2-7.0.40.824.jar iron-chest 7.0.40.824
+xxx consider https://minecraft.curseforge.com/projects/metalchests
 
 setauthors Azanor
 seturl https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1294623-baubles-1-4-6-1-5-2-updated-2018-1-10
@@ -217,9 +218,9 @@ solderfile IntegrationForegoing-1.12.2-1.7.1.jar integration-foregoing 1.7.1
 # seturl https://minecraft.curseforge.com/projects/engineers-workshop-reborn
 # solderfile EngineersWorkshopReborn-1.12.2-1.0.8.37.jar engineers-workshop-reborn 1.0.8.37
 
-setauthors asiekierka
-seturl https://minecraft.curseforge.com/projects/smoothwater
-solderfile SmoothWater-0.1.4.jar smooth-water 0.1.4
+# setauthors asiekierka
+# seturl https://minecraft.curseforge.com/projects/smoothwater
+# solderfile SmoothWater-0.1.4.jar smooth-water 0.1.4
 
 setauthors "PuppetzMedia, asiekierka, buildcraftchildsplay, copygirl, InsomniaKitten, mindlesspuppetz"
 seturl https://minecraft.curseforge.com/projects/wearable-backpacks
@@ -241,25 +242,25 @@ setauthors Lothrazar
 seturl https://minecraft.curseforge.com/projects/cyclic
 solderfile Cyclic-1.12.2-1.15.15.jar cyclic 1.15.15
 
-# setauthors abab9579
-# seturl https://minecraft.curseforge.com/projects/stellar-api
-# solderfile Stellar+API-1.12.2-0.4.2.9.jar stellar-api 0.4.2.9
-# seturl https://minecraft.curseforge.com/projects/stellar-sky
-# solderfile Stellar+Sky-1.12.2-0.5.2.8.jar stellar-sky 0.5.2.8
-# seturl https://minecraft.curseforge.com/projects/photoptics
-# solderfile Photoptics-1.12.2-0.1.1.1.jar photoptics 0.1.1.1
+setauthors abab9579
+seturl https://minecraft.curseforge.com/projects/stellar-api
+solderfile Stellar+API-1.12.2-0.4.2.9.jar stellar-api 0.4.2.9
+seturl https://minecraft.curseforge.com/projects/stellar-sky
+solderfile Stellar+Sky-1.12.2-0.5.2.8.jar stellar-sky 0.5.2.8
+seturl https://minecraft.curseforge.com/projects/photoptics
+solderfile Photoptics-1.12.2-0.1.1.1.jar photoptics 0.1.1.1
 
-# setauthors Tmtravlr
-# seturl https://minecraft.curseforge.com/projects/sound-filters
-# solderfile SoundFilters-0.10_for_1.12.jar sound-filters 0.10
+setauthors Tmtravlr
+seturl https://minecraft.curseforge.com/projects/sound-filters
+solderfile SoundFilters-0.10_for_1.12.jar sound-filters 0.10
 
 setauthors mangoose3039
 seturl https://minecraft.curseforge.com/projects/rustic
 solderfile rustic-1.0.6.jar rustic 1.0.6
-# seturl https://minecraft.curseforge.com/projects/dynamictrees
-# solderfile DynamicTrees-1.12.2-0.7.8.jar dynamic-trees 0.7.8
-# seturl https://minecraft.curseforge.com/projects/dtbop
-# solderfile DynamicTreesBOP-1.12.2-1.2.jar dynamic-trees-bop 1.2
+seturl https://minecraft.curseforge.com/projects/dynamictrees
+solderfile DynamicTrees-1.12.2-0.7.8.jar dynamic-trees 0.7.8
+seturl https://minecraft.curseforge.com/projects/dtbop
+solderfile DynamicTreesBOP-1.12.2-1.2.jar dynamic-trees-bop 1.2
 # seturl https://minecraft.curseforge.com/projects/dttc
 # solderfile DynamicTreesTC-1.12.2-1.0.jar dynamic-trees-thaumcraft 1.0
 seturl https://minecraft.curseforge.com/projects/nether-chest
@@ -308,14 +309,17 @@ solderfile infinitefluids-1.11-1.2.0.jar infinite-fluids 1.2.0
 setauthors stormwind
 seturl https://minecraft.curseforge.com/projects/web-slinger
 solderfile webslinger-1.12.2-1.1.1.jar web-slinger 1.1.1
+seturl https://minecraft.curseforge.com/projects/pantography
+https://minecraft.curseforge.com/projects/palimpsest
+https://minecraft.curseforge.com/projects/daring-debug
 
 # setauthors "ShadowGamerXY, Alexismachina, elucent, werty1125, Yulife"
 # seturl https://minecraft.curseforge.com/projects/adventurebags
 # solderfile ab-1.12.2-0.8r.jar adventure-bags 0.8r
 
-# setauthors "P3pp3rF1y, Yulife"
-# seturl https://minecraft.curseforge.com/projects/reliquary-v1-3
-# solderfile Reliquary-1.12.2-1.3.4.767.jar reliquary 1.3.4.767
+setauthors "P3pp3rF1y, Yulife"
+seturl https://minecraft.curseforge.com/projects/reliquary-v1-3
+solderfile Reliquary-1.12.2-1.3.4.767.jar reliquary 1.3.4.767
 
 setauthors "TehNut, Tombenpotter"
 seturl https://minecraft.curseforge.com/projects/guide-api
@@ -341,17 +345,17 @@ setauthors CubeX2
 seturl https://minecraft.curseforge.com/projects/truetype-font-replacement
 solderfile --client TTFR-1.12.1-1.9.1.jar truetype-font-replacement 1.9.1
 
-# setauthors MatrexsVigil
-# seturl https://minecraft.curseforge.com/projects/pams-harvestcraft
-# solderfile "Pam's+HarvestCraft+1.12.2u.jar" pams-harvestcraft 1.12.2u
+setauthors MatrexsVigil
+seturl https://minecraft.curseforge.com/projects/pams-harvestcraft
+solderfile "Pam's+HarvestCraft+1.12.2u.jar" pams-harvestcraft 1.12.2u
 
-setauthors "Team_otg, MC_Pitman, PeeGee85"
-seturl https://minecraft.curseforge.com/projects/open-terrain-generator
-solderfile OpenTerrainGenerator-1.12.2+-+v6.jar open-terrain-generator 6
-seturl https://minecraft.curseforge.com/projects/biome-bundle
-solderfile Biome_Bundle-1.12.2-v6.1.jar otg-biome-bundle 6.1
-seturl https://minecraft.curseforge.com/projects/otg-dungeons
-solderfile OTG-Dungeons-1.12.2-v1.jar otg-dungeons 1
+# setauthors "Team_otg, MC_Pitman, PeeGee85"
+# seturl https://minecraft.curseforge.com/projects/open-terrain-generator
+# solderfile OpenTerrainGenerator-1.12.2+-+v6.jar open-terrain-generator 6
+# seturl https://minecraft.curseforge.com/projects/biome-bundle
+# solderfile Biome_Bundle-1.12.2-v6.1.jar otg-biome-bundle 6.1
+# seturl https://minecraft.curseforge.com/projects/otg-dungeons
+# solderfile OTG-Dungeons-1.12.2-v1.jar otg-dungeons 1
 # seturl https://minecraft.curseforge.com/projects/otg-skylands
 # solderfile OTG-Skylands-1.12.2-v5.jar otg-skylands 5
 # seturl https://minecraft.curseforge.com/projects/otg-the-void
@@ -380,6 +384,7 @@ seturl https://minecraft.curseforge.com/projects/ender-io
 solderfile EnderIO-1.12.2-5.0.26.jar ender-io 5.0.26
 seturl https://minecraft.curseforge.com/projects/ender-zoo
 solderfile EnderZoo-1.12.1-1.4.0.49.jar ender-zoo 1.4.0.49
+xxx add that other one
 
 setauthors Elec332
 seturl https://minecraft.curseforge.com/projects/eleccore
@@ -388,22 +393,22 @@ solderfile ElecCore-1.12.2-1.8.434.jar elec-core 1.8.434
 setauthors McJty
 seturl https://minecraft.curseforge.com/projects/mcjtylib
 solderfile mcjtylib-1.12-3.0.2.jar mcjtylib 3.0.2
-# seturl https://minecraft.curseforge.com/projects/rftools
-# solderfile rftools-1.12-7.54.jar rf-tools 7.54
-# seturl https://minecraft.curseforge.com/projects/deep-resonance
-# solderfile deepresonance-1.12-1.7.0.jar deep-resonance 1.7.0
+seturl https://minecraft.curseforge.com/projects/rftools
+solderfile rftools-1.12-7.54.jar rf-tools 7.54
+seturl https://minecraft.curseforge.com/projects/deep-resonance
+solderfile deepresonance-1.12-1.7.0.jar deep-resonance 1.7.0
 # seturl https://minecraft.curseforge.com/projects/restrictions
 # solderfile restrictions-1.12-1.2.0.jar restrictions 1.2.0
 seturl https://minecraft.curseforge.com/projects/not-enough-wands
 solderfile notenoughwands-1.12-1.7.0.jar not-enough-wands 1.7.0
-# seturl https://minecraft.curseforge.com/projects/rftools-dimensions
-# solderfile rftoolsdim-1.12-5.60.jar rf-tools-dimensions 5.60
+seturl https://minecraft.curseforge.com/projects/rftools-dimensions
+solderfile rftoolsdim-1.12-5.60.jar rf-tools-dimensions 5.60
 # seturl https://minecraft.curseforge.com/projects/rf-lux
 # solderfile rflux-1.12-0.3.0.jar rf-lux 0.3.0
-# seturl https://minecraft.curseforge.com/projects/rftools-power
-# solderfile rftoolspower-1.12-1.1.0.jar rf-tools-power 1.1.0
-# seturl https://minecraft.curseforge.com/projects/rftools-control
-# solderfile rftoolsctrl-1.12-1.9.1.jar rf-tools-control 1.9.1
+seturl https://minecraft.curseforge.com/projects/rftools-power
+solderfile rftoolspower-1.12-1.1.0.jar rf-tools-power 1.1.0
+seturl https://minecraft.curseforge.com/projects/rftools-control
+solderfile rftoolsctrl-1.12-1.9.1.jar rf-tools-control 1.9.1
 
 setauthors Davenonymous
 seturl https://minecraft.curseforge.com/projects/compact-machines
@@ -477,9 +482,9 @@ solderfile engineersdoors-0.7.2.jar engineers-doors 0.7.2
 # seturl https://minecraft.curseforge.com/projects/ir-heavy-industrial-resourcepack
 # solderfile Heavy+Industrial+1.3.2.1+by+adam+r+k.zip ir-heavy-industrial 1.3.2.1 conf#ig/immersiveengineering
 
-# setauthors "Purplicious_Cow, raptorfarian, RazzleberryFox, Tschipp"
-# seturl https://minecraft.curseforge.com/projects/animania
-# solderfile animania-1.12.2-1.4.8.jar animania 1.4.8
+setauthors "Purplicious_Cow, raptorfarian, RazzleberryFox, Tschipp"
+seturl https://minecraft.curseforge.com/projects/animania
+solderfile animania-1.12.2-1.4.8.jar animania 1.4.8
 
 # setauthors "ZeAmateis, Timmypote"
 # seturl https://www.curseforge.com/minecraft/mc-mods/craftstudio-api
@@ -518,21 +523,21 @@ solderfile OpenComputers-MC1.12.2-1.7.2.67.jar open-computers 1.7.2.67
 setauthors iChun
 seturl https://minecraft.curseforge.com/projects/ichunutil
 solderfile iChunUtil-1.12.2-7.1.4.jar ichun-util 7.1.4
-seturl https://minecraft.curseforge.com/projects/mob-amputation
-solderfile MobAmputation-1.12.2-7.0.0.jar mob-amputation 7.0.0
+# seturl https://minecraft.curseforge.com/projects/mob-amputation
+# solderfile MobAmputation-1.12.2-7.0.0.jar mob-amputation 7.0.0
 seturl https://minecraft.curseforge.com/projects/ding
 solderfile Ding-1.12.1-1.0.1.jar ding 1.0.1
 seturl https://minecraft.curseforge.com/projects/general-laymans-aesthetic-spying-screen-glass
 solderfile GeneralLaymansAestheticSpyingScreen-1.12.2-7.0.0.jar glass 7.0.0
-# seturl https://minecraft.curseforge.com/projects/morph
-# solderfile Morph-1.12.2-7.1.2.jar morph 7.1.2
+seturl https://minecraft.curseforge.com/projects/morph
+solderfile Morph-1.12.2-7.1.2.jar morph 7.1.2
 # seturl https://minecraft.curseforge.com/projects/hats
 # solderfile Hats-1.12.2-7.0.2.jar hats 7.0.2
 
-# setauthors corosus
-# seturl https://coros.us/mods/
-# solderfile coroutil-1.12.1-1.2.11.jar coro-util 1.2.11
-# solderfile weather2-1.12.1-2.6.10.jar weather2 2.6.10
+setauthors corosus
+seturl https://coros.us/mods/
+solderfile coroutil-1.12.1-1.2.11.jar coro-util 1.2.11
+solderfile weather2-1.12.1-2.6.10.jar weather2 2.6.10
 
 setauthors "Destroyer7128, DrummerMC, Nedelosk, Pwnie2012"
 seturl https://minecraft.curseforge.com/projects/extracells2
@@ -568,9 +573,9 @@ solderfile malisisblocks-1.12.2-6.1.0.jar malisis-blocks 6.1.0
 seturl https://minecraft.curseforge.com/projects/malisisswitches
 solderfile malisisswitches-1.12.2-5.1.0.jar malisis-switches 5.1.0
 
-# setauthors AtomicStryker
-# seturl https://minecraft.curseforge.com/projects/dynamic-lights
-# solderfile DynamicLights-1.12.2.jar dynamic-lights 1.12.2
+setauthors AtomicStryker
+seturl https://minecraft.curseforge.com/projects/dynamic-lights
+solderfile DynamicLights-1.12.2.jar dynamic-lights 1.12.2
 
 setauthors CreativeMD
 seturl https://minecraft.curseforge.com/projects/creativecore
@@ -578,13 +583,14 @@ solderfile CreativeCore_v1.9.22_mc1.12.2.jar creative-core 1.9.22
 seturl https://minecraft.curseforge.com/projects/itemphysic
 solderfile ItemPhysic_Full_1.4.12_mc1.12.2.jar item-physic-full 1.4.12
 
-# setauthors 10paktimbits
-# seturl http://10paksmods.net/
-# solderfile realworld-1.17.jar realworld 1.17
+setauthors 10paktimbits
+seturl http://10paksmods.net/
+#solderfile realworld-1.17.jar realworld 1.17
+xxx plant mega pack, decoration megapack
 
-# setauthors "BlayTheNinth, Zero9010"
-# seturl https://minecraft.curseforge.com/projects/cooking-for-blockheads
-# solderfile CookingForBlockheads_1.12.2-6.4.40.jar cooking-for-blockheads 6.4.40
+setauthors "BlayTheNinth, Zero9010"
+seturl https://minecraft.curseforge.com/projects/cooking-for-blockheads
+solderfile CookingForBlockheads_1.12.2-6.4.40.jar cooking-for-blockheads 6.4.40
 
 setauthors sk89q
 seturl https://minecraft.curseforge.com/projects/worldedit
@@ -593,6 +599,7 @@ solderfile worldedit-forge-mc1.12-6.1.8-dist.jar world-edit 6.1.8
 # setauthors "JS Community"
 # seturl https://github.com/John-Smith-Modded/JSTR-Modded-1.12.x/releases
 # solderfile --client JSTR-1.12.x-1.1.5.zip john-smith-tr 1.12-1.1.5 resourcepacks
+xxx grab new jstr
 
 setauthors "elucent, epicsquid"
 seturl https://minecraft.curseforge.com/projects/roots
@@ -602,6 +609,7 @@ solderfile roots-2-0.104.jar roots2 2-0.104
 seturl https://minecraft.curseforge.com/projects/clarity
 solderfile clarity-1.1.jar clarity 1.1
 seturl https://minecraft.curseforge.com/projects/embers
+xxx switch to https://minecraft.curseforge.com/projects/embers-rekindled
 solderfile embers-0.230.jar embers 0.230
 seturl https://minecraft.curseforge.com/projects/mysticallib
 solderfile elulib-0.1.12.jar mystical-lib 0.1.12
@@ -650,6 +658,7 @@ setauthors "squeek502, Girafi"
 seturl https://minecraft.curseforge.com/projects/applecore
 solderfile AppleCore-mc1.12.2-3.1.3.jar apple-core 3.1.3
 
+xxx these need BASE now
 setauthors jaredlll08
 seturl https://minecraft.curseforge.com/projects/initial-inventory
 solderfile InitialInventory-3.0.0.jar initial-inventory 3.0.0
@@ -666,6 +675,7 @@ setauthors "jaredlll08, kindlich, StanH"
 seturl https://minecraft.curseforge.com/projects/crafttweaker
 solderfile CraftTweaker2-1.12-4.1.9.jar craft-tweaker2 4.1.9
 
+xxx Need to remove defaults, possibly load custom generation pack
 setauthors Ivorius
 seturl https://minecraft.curseforge.com/projects/recurrent-complex
 solderfile RecurrentComplex-1.4.7.jar recurrent-complex 1.4.7
@@ -681,12 +691,18 @@ seturl https://minecraft.curseforge.com/projects/fast-leaf-decay
 solderfile FastLeafDecay-v14.jar fast-leaf-decay 14
 
 setauthors BordListian
+xxx embers rekindled goes here
 seturl https://minecraft.curseforge.com/projects/soot
 solderfile Soot-0.18hotfix.jar soot 0.18-hotfix
 
-setauthors "HellFirePvP wiiv"
-seturl https://minecraft.curseforge.com/projects/astral-sorcery
-solderfile astralsorcery-1.12.2-1.9.4.jar astral-sorcery 1.9.4
+# disabled in favor of stellarsky etc!
+# setauthors "HellFirePvP wiiv"
+# seturl https://minecraft.curseforge.com/projects/astral-sorcery
+# solderfile astralsorcery-1.12.2-1.9.4.jar astral-sorcery 1.9.4
+
+xxx consider https://minecraft.curseforge.com/projects/bwm-suite
+xxx https://minecraft.curseforge.com/projects/superior-shields
+
 
 # ==== tail
 
